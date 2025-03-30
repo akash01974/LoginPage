@@ -1,0 +1,5 @@
+Main background Gradient: #111, #222
+Container: #111
+Form-box: #222
+Inputs: #333
+Buttons Color: #555
